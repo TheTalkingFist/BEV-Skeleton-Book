@@ -1,6 +1,6 @@
 Hi, again.
 
-We're here! Our final test, for our final term, for our final semester, for our final year!!
+We're here! Our final test, for our final term, for our final semester, for our final year!!!
 
 # Index
 [[1 - Persona (5 Royal)]]
