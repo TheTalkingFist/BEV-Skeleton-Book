@@ -186,7 +186,7 @@ And finally, take this model.
 ![[Pasted image 20260223214137.png]]
 
 ---
-[[5 - Visualisation Deployment|Next]] || [[3 - Fundamentals of 3D|Prev]]
+[[5 - Visualisation Deployment|Next]] || [[3 - Fundamentals of 3D|Prev]]<br>
 [[0 - Index|Index]]
 
 And wow! That's it from me!
@@ -196,4 +196,3 @@ That's the last chapter I'll ever write for the Skeleton Book in ITE. Crazy, how
 Anyway, Jeb'll be back to send this module off. I'll write my sappy goodbye in the index, because I like sappy goodbyes. I'll recommend finishing off chapter 5 first, then you can go back and read it.
 
 If there's nothing else, I guess I'll see you 'round!
-

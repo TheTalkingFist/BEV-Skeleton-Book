@@ -7,39 +7,39 @@ Methods like Photogrammetry and LiDAR output data known as **“Point Clouds,”
 # 3.2 Important 3D Modelling Concepts
 
 
-• **Vertex:** 
+• **Vertex:**
 A single point and the smallest component of a 3D model.
 
-• **Edge:** 
+• **Edge:**
 A straight line that connects two vertices and defines the model's shape.
 
-• **Polygon:** 
+• **Polygon:**
 Any shape formed by connecting straight lines.
 
-• **Face:** 
+• **Face:**
 The most basic part of a polygon mesh; the space formed between connected edges.
 
-• **Mesh:** 
+• **Mesh:**
 A collection of polygons connected along their edges.
 
-• **Topology:** 
+• **Topology:**
 Refers to how the components of a mesh are distributed and connected.
 
-• **Normals:** 
+• **Normals:**
 A vertical line jutting out of each face is called a “Normal”. It is important for all the faces of a 3D model to be **facing the correct orientation (usually outwards and single-sided only) with no overlaps** so that they will render (display) properly in real-time engines. The direction of the face determines how light should behave on that particular face in real-time engines.
 
-• **UVs:** 
+• **UVs:**
 2D texture coordinates that reside with the vertex information for polygonal surface meshes. They provide the connection between the surface mesh and how the image texture gets mapped onto it.
 
-• **Textures:** 
+• **Textures:**
 A **bitmap image** applied to the surface of 3D objects to add detail and realism.
 
-• **Materials:** 
+• **Materials:**
 Define how mesh surfaces react to virtual lights. Simple materials consist of a single flat colour; complex ones include multiple textures and physically-based shading.
 
-• **Pivot Points:** 
+• **Pivot Points:**
 The position around which objects or components are moved, rotated, and scaled. By default, the pivot point is located at the object's centre. **You need them for accurate manipulation and placement in 3D applications.**
 
 ---
-[[4 - Creating a Vision|Next]] || [[2 - Fundamentals of BEV|Prev]]
+[[4 - Creating a Vision|Next]] || [[2 - Fundamentals of BEV|Prev]]<br>
 [[0 - Index|Index]]

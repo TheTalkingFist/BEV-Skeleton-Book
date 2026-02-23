@@ -17,7 +17,7 @@ It might seem weird to talk about the end at the beginning, but **you should sta
 
 • **App Platforms (360 only):** Frameworks like **Viar360 or InstaVR** allow for easy distribution across various headsets, though they might limit your ability to customize.
 
---- 
+---
 # 5.2 Technical Specs and Online Deployment
 
 When going online, remember that not all platforms are equal—some might not support **stereoscopic 3D or spatial audio**.
@@ -72,9 +72,9 @@ Before you launch, put on your detective hat and check these attributes:
    ◦ **Polish:** Verify textures display properly, **LOD models** are set up, and no **polygon faces** are missing or **inverted** (facing the wrong side).
 
 ---
-[[4 - Creating a Vision|Prev]]
+[[4 - Creating a Vision|Prev]]<br>
 [[0 - Index|Index]]
-
+<br>
 That brings us to the end of this chapter and with it, the final skeleton book in the series.
 It has been a pleasure and it certainly was a fun journey. Safe travels everyone!
 
