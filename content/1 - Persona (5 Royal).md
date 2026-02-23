@@ -66,4 +66,4 @@ It'd be a good idea for them to put themselves in the shoes of their player and 
 And that should be it for chapter 1, and from me, for now. I'll see you all in chapter 4, as Jeb takes you through the next two. Seeeeeeya!
 <br>
 [[2 - Fundamentals of BEV|Next]]<br>
-[[0 - Index|Index]]
+[[index|Index]]

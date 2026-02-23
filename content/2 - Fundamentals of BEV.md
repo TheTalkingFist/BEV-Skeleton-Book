@@ -89,4 +89,4 @@ Disadvantages of LiDAR:
 
 ---
 [[3 - Fundamentals of 3D|Next]] || [[1 - Persona (5 Royal)|Prev]]<br>
-[[0 - Index|Index]]
+[[index|Index]]

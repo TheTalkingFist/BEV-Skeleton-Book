@@ -42,4 +42,4 @@ The position around which objects or components are moved, rotated, and scaled. 
 
 ---
 [[4 - Creating a Vision|Next]] || [[2 - Fundamentals of BEV|Prev]]<br>
-[[0 - Index|Index]]
+[[index|Index]]

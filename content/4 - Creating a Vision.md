@@ -187,7 +187,7 @@ And finally, take this model.
 
 ---
 [[5 - Visualisation Deployment|Next]] || [[3 - Fundamentals of 3D|Prev]]<br>
-[[0 - Index|Index]]
+[[index|Index]]
 
 And wow! That's it from me!
 

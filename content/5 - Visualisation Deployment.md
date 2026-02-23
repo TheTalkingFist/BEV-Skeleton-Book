@@ -73,7 +73,7 @@ Before you launch, put on your detective hat and check these attributes:
 
 ---
 [[4 - Creating a Vision|Prev]]<br>
-[[0 - Index|Index]]
+[[index|Index]]
 <br>
 That brings us to the end of this chapter and with it, the final skeleton book in the series.
 It has been a pleasure and it certainly was a fun journey. Safe travels everyone!
